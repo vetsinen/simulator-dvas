@@ -1,0 +1,32 @@
+{
+     "event_id": 139,
+     "event_guid": "e81474a23943",
+     "event_timestamp": "2020-11-13T12:29:05.858+04:00",
+     "lane_id": 1,
+     "lane_name": "cam1",
+     "vehicle": {
+          "vehicle_guid": "951b06f8-84fc-4761-85c3-c820a0ad65d2_20201113082905858",
+          "vehicle_class": [
+               {
+                    "class_name": "car",
+                    "confidence": 84
+               }
+          ],
+          "vehicle_axles": [
+               {
+                    "count": 2,
+                    "confidence": 71
+               }
+          ]
+     },
+     "images": [
+          {
+               "image_guid": "e81474a23943",
+               "image_timestamp": "2020-11-13T12:29:05.858+04:00",
+               "camera_id": "1",
+               "camera_name": "cam1",
+               "image_encoding": "jpeg",
+               "image_data": null
+          }
+     ]
+}

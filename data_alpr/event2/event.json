@@ -1,0 +1,41 @@
+{
+     "event_guid": "f942feff-d5cb36cc-e114f591-6d5e537c-20201207131244000",
+     "event_id": "3",
+     "event_timestamp": "2020-12-07T15:16:44+04:00",
+     "images": [
+          {
+               "camera_id": 1,
+               "camera_name": "2",
+               "image_data": "<jpeg data base64 encoded>",
+               "image_encoding": "jpg",
+               "image_guid": "42354247-e4fac5b0-cf535176-a727ead6-20201207131244000",
+               "image_timestamp": "2020-12-07T15:16:44+04:00"
+          },
+          {
+               "camera_id": 1,
+               "camera_name": "2",
+               "image_data": "<jpeg data base64 encoded>",
+               "image_encoding": "jpg",
+               "image_guid": "7fdf44d8-75ab86a3-a04ac862-a2e7829f-20201207131243000",
+               "image_timestamp": "2020-12-07T15:16:44+04:00"
+          }
+     ],
+     "lane_id": 123,
+     "lane_name": "lane 123",
+     "licence_plates": [
+          {
+               "licence_plate_front_rear": "front",
+               "licence_plate_guid": "7fdf44d8-75ab86a3-a04ac862-a2e7829f-20201207131243000",
+               "licence_plate_image": {
+                    "image_guid": "7fdf44d8-75ab86a3-a04ac862-a2e7829f-20201207131243000"
+               },
+               "licence_plate_read": {
+                    "confidence": 99,
+                    "plate_read": "1BL0754"
+               }
+          }
+     ],
+     "vehicle": {
+          "vehicle_guid": "9bd84cb2-e828ede8-27737f94-1e7684d8-20201207131244000"
+     }
+}
